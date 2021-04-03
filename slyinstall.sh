@@ -1,5 +1,9 @@
 #!/usr/bin/bash
 
+#Author Mr.Slyker
+#Jangan Lupa Kunjungi Web Saya https://SarungCynerTeam.blogspot.com
+#Untuk Usernamenya Adalah Slyker
+
 clear
 sleep 2
 figlet SlyInstall
